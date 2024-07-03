@@ -1,0 +1,19 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+.mypy_cache/
+*.egg-info
+
+# venv
+.venv
+
+*.spec
+newdata*.json
+testt.py
+*.zip
+*.png
+*.jpg
+images/
